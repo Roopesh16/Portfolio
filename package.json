@@ -1,0 +1,19 @@
+{
+  "name": "iportfolio",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "iPortfolio"
+    }
+  },
+  "scripts": {
+    "start": "npm run open",
+    "open": "http-server public -a localhost -p 1234 -o"
+  },
+  "description": "Thanks for downloading this template!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
